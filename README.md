@@ -1,2 +1,4 @@
-# python_inicial_proyecto_final
-Proyecto Final - La Vitrola Mágica
+# **Proyecto "LA VITROLA MAGICA"**
+# _Curso Python Inicial_
+
+
