@@ -19,6 +19,7 @@ Python 3.10.4
 **Autor** :copyright:
 
 Mario Martínez - Salta la linda, Argentina - ingenieromario@hotmail.com
+
 En el marco del trabajo Final del Curso Python Inicial, dictado por Inove.
 
 **Diagrama Esquema del Programa** 	:computer:
