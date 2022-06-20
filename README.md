@@ -5,7 +5,7 @@
 **¡Pon a prueba tu oído y desafía tus conocimientos sobre la Música!**
 
 En este juego el programa reproduce 10 segundos de una canción elegida aleatoriamente :musical_keyboard: y brinda 4 opciones al usuario, quien debe elegir cuál es el nombre de la canción que se reprodujo.
-Preparado para 2 jugadores. Cada acierto suma 1 punto. Son 5 rondas donde van cambiando los géneros de las canciones, dicho género musical es mostrado previamente antes de escuchar la misma.
+Preparado para 2 jugadores. Cada acierto suma 1 punto. Son 3 rondas donde van cambiando los géneros de las canciones, dicho género musical es mostrado previamente antes de escuchar la misma.
 Finalmente se muestra el puntaje obtenido por cada jugador, y si hubo un ganador el mismo ingresa al registro histórico de ganadores del Juego! :trophy:
 
 **Pre-Requisitos** :spiral_notepad: 
