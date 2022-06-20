@@ -19,5 +19,5 @@ Python 3.10.4
 Mario Martínez - En el marco del trabajo Final del Curso Python Inicial, dictado por Inove.
 
 **Diagrama Esquema del Programa** 	:computer:
-![descripcion](/images/la_vitrola_magica.jpg)
+![descripcion](/images/La_Vitrola_Magica.jpg)
 
