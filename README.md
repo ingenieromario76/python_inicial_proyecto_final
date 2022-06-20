@@ -10,7 +10,7 @@ Finalmente se muestra el puntaje obtenido por cada jugador, y si hubo un ganador
 
 **Pre-Requisitos** :spiral_notepad: 
 
-Para la correcta ejecución del Juego, debe instalarse el paquete pip. Es un procedimiento sencillo de un solo paso: desde la consola de Python, ingresar: pip install playsound
+Para la correcta ejecución del Juego, debe instalarse el paquete pip. Es un procedimiento sencillo de un solo paso: desde la consola de Python, ingresar: pip install playsound==1.2.2
 
 **Desarrollado con** :hammer_and_wrench:
 
