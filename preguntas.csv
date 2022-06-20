@@ -1,0 +1,8 @@
+numero,cancion,genero,respuesta_1,respuesta_2,respuesta_3,respuesta_4,respuesta_correcta
+00,cancion1.mp3,internacionales,1-HEROE,2-DESAYUNO EN AMERICA,3-AUN TE AMO,4-ECLIPSE TOTAL DE CORAZON,4
+01,cancion2.mp3,internacionales,1-GHOST,2-I WILL ALWAYS LOVE YOU,3-QUIERO SABER QUE ES EL AMOR,4-COMO UN TONTO,2
+02,cancion3.mp3,folklore,1-Zambita de piel morena,2-Sin vos,3-Sombra herida,4-A un solo segundo,3
+03,cancion4.mp3,folklore,1-La pucha con el hombre,2-Los domingos santiagueños,3-Para que me habras mirado,4-cuando me abandone el alma,2
+04,cancion5.mp3,romanticos,1-Te estoy amando,2-Sin ti,3-Estoy enamorado,4-Quien te quiera como yo,3
+05,cancion6.mp3,folklore,1-Salta por siempre,2-Cuando me acuerdo de Salta,3-Salta en los carnavales,4-Saltita,4
+06,cancion7.mp3,rock nacional,1-No me verás,2-Lamento Boliviano,3-Por el resto,4-Te vi en un tren,3
