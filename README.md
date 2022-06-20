@@ -7,10 +7,15 @@ Preparado para 2 jugadores. Cada acierto suma 1 punto. Son 5 rondas donde van ca
 Finalmente se muestra el puntaje obtenido por cada jugador, y si hubo un ganador el mismo ingresa al registro histórico de ganadores del Juego! :trophy:
 
 **Pre-Requisitos** :spiral_notepad: 
+
 Para la correcta ejecución del Juego, debe instalarse el paquete pip. Es un procedimiento sencillo de un solo paso: desde la consola de Python, ingresar: pip install playsound
 
 **Desarrollado con** :hammer_and_wrench:
+
 Python 3.10.4
 
+**Autor** :copyright:
+
+Mario Martínez - En el marco del trabajo Final del Curso Python Inicial, dictado por Inove.
 
 
